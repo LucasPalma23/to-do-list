@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Primeiro projeto de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Lucas Palma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
